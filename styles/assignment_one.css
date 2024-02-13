@@ -6,6 +6,8 @@
     align-items: baseline;
     row-gap: 30px;
     column-gap: 15px;
+    margin: auto;
+    padding: 10px;
   }
  
 @media (max-width: 768px) {
